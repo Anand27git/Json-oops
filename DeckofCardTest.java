@@ -1,5 +1,10 @@
 package deckcardtest;
-
+/******
+ * 
+ * @author ANAND
+ * purpose: prints the cards in order
+ * 
+ */
 public class DeckofCardTest {
 
 	public static void main(String[] args) {
